@@ -14,3 +14,5 @@ plugins {
 }
 
 rootProject.name = "joltcrackingguard"
+
+include("common", "fabric")

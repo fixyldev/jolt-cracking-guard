@@ -1,0 +1,24 @@
+{
+    "schemaVersion": 1,
+    "id": "joltcrackingguard",
+    "version": "${version}",
+    "name": "Jolt Cracking Guard",
+    "description": "Jolt Cracking Guard is a mod for Minecraft Java Edition that...",
+    "authors": [
+        "fixyldev"
+    ],
+    "contact": {
+        "homepage": "https://modrinth.com/mod/jolt-cracking-guard",
+        "issues": "https://github.com/fixyldev/jolt-cracking-guard/issues",
+        "sources": "https://github.com/fixyldev/jolt-cracking-guard"
+    },
+    "license": "MIT",
+    "icon": "assets/joltcrackingguard/icon.png",
+    "environment": "client",
+    "entrypoints": {},
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.20.1",
+        "minecraft": "~26.3"
+    }
+}
